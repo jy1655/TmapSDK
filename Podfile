@@ -26,6 +26,7 @@ target 'TmapSDK_pod' do
   pod 'RxSwift'
   pod 'RxCocoa'
   pod 'ReactorKit'
+  pod 'CocoaMQTT'
 
 end
 

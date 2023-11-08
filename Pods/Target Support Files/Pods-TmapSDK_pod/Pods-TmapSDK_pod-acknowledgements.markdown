@@ -229,6 +229,12 @@ THE SOFTWARE.
    limitations under the License.
 
 
+## CocoaMQTT
+
+This project is dual licensed under the Eclipse Public License 1.0 and the
+Eclipse Distribution License 1.0 as described in the epl-v10 and edl-v10 files.
+
+
 ## CocoaSecurity
 
 The MIT License (MIT)
@@ -406,6 +412,16 @@ TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONIN
 THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
+
+## MqttCocoaAsyncSocket
+
+Public Domain License
+
+The MqttCocoaAsyncSocket project is in the public domain.
+
+The original TCP version (AsyncSocket) was created by Dustin Voss in January 2003.
+Updated and maintained by Deusty LLC and the Apple development community.
+
 
 ## PinLayout
 
