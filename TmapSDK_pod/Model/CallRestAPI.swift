@@ -19,7 +19,7 @@ struct CallRestAPI {
 
         // API 호출 메소드
     func fetchRoute(completion: @escaping (Result<Data, Error>) -> Void) {
-            let urlString = "https://apis.openapi.sk.com/tmap/routes/pedestrian?version=1&format=json&callback=result"
+            let urlString = "https://apis.openapi.sk.com/tmap/routes/pedestrian?version=1&format=json&callback=result" // 보행자 경로요청 API URL
 
             guard let url = URL(string: urlString) else {
                 completion(.failure(NSError(domain: "InvalidURL", code: 0, userInfo: nil)))

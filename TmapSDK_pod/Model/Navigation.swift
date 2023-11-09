@@ -99,7 +99,7 @@ class Navigation {
     }
 
     func hideLocationAlert(from viewController: UIViewController) {
-        guard let alert = self.locationAlert else {
+        guard self.locationAlert != nil else {
             return
         }
         print("hide location permission alert")
